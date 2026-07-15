@@ -28,7 +28,8 @@ Building scalable web applications, automation tools, and developer-focused soft
 ## 🛠 Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,nodejs,django,docker,postgres,mongodb,linux,git,bash,tailwind" />
+  <img src="https://api.gitwidgets.dev/api?username=MrArsenic621&type=stats&theme=dark&hide_border=true&hide_username=true&animation=fade" alt="GitHub Stats" />
+<!-- <img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,nodejs,django,docker,postgres,mongodb,linux,git,bash,tailwind" /> -->
 </p>
 
 ---
